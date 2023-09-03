@@ -97,7 +97,7 @@ class CreateParticles {
 
 		this.data = {
 
-			text: '     Undex\nDvelobed By \n     _00h',
+			text: '     Undex\nDeveloped By \n     _00h',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
